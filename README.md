@@ -19,8 +19,8 @@ Aprendi nesse projeto a utilizar o MySql ralizando queries e manipulando informa
 Instalação com npm
 
 ```bash
-  git clone git@github.com:GuilhermeFMP/MySQl-All-For-One.git
-  cd MySQl-All-For-One
+  git clone git@github.com:GuilhermeFMP/Trybe-MySQl-All-For-One.git
+  cd Trybe-MySQl-All-For-One
   npm install
 ```
     
